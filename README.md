@@ -67,11 +67,16 @@ Some screenshots of the app are:
 Extensions:  
 
 If time permits then We’ll include these functions also:  
+
 1)   Adding of patients and doctors into the database.   ---> which is now completed!!! 
+
 2)   Graphical analysis by RJDBC   
 
 
 Assumptions:  
+
 1) Each patient will have exactly 1 prescription. 
+
 2) “Dr.” ,”Mrs.”, and “ Mr.”  initials are not included in the names of patients/doctors in the database.
+
 3) We assume that the entries for all the relations have already been inserted into the database.  
