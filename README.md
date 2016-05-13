@@ -30,6 +30,14 @@ Prescription (prescription_id ,medicine_id…)
 Bill(bill_no,.....)
 Insurance(insurance_no,bill_no,...)
 manufacturer(manufacturer_id,...) 
+
+Some screenshots of the app are:
+
+![alt tag](https://github.com/SonakshiGrover/HospitalDBMS/blob/master/Screenshot%201.png)
+
+![alt tag](https://github.com/SonakshiGrover/HospitalDBMS/blob/master/Screenshot%202.png)
+
+![alt tag](https://github.com/SonakshiGrover/HospitalDBMS/blob/master/Screenshot%203.png)
    
 Extensions:  
 If time permits then We’ll include these functions also:  
